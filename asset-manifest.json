@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15dd7baa.chunk.css",
+    "main.js": "/static/js/main.c1400cb9.chunk.js",
+    "main.js.map": "/static/js/main.c1400cb9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.be7d01d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.be7d01d2.js.map",
+    "static/js/2.0a80fdba.chunk.js": "/static/js/2.0a80fdba.chunk.js",
+    "static/js/2.0a80fdba.chunk.js.map": "/static/js/2.0a80fdba.chunk.js.map",
+    "static/js/3.ec4bf723.chunk.js": "/static/js/3.ec4bf723.chunk.js",
+    "static/js/3.ec4bf723.chunk.js.map": "/static/js/3.ec4bf723.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.15dd7baa.chunk.css.map": "/static/css/main.15dd7baa.chunk.css.map",
+    "static/js/2.0a80fdba.chunk.js.LICENSE.txt": "/static/js/2.0a80fdba.chunk.js.LICENSE.txt",
+    "static/media/classic.daad4d8b.jpg": "/static/media/classic.daad4d8b.jpg",
+    "static/media/estetic.5d5e0254.jpg": "/static/media/estetic.5d5e0254.jpg",
+    "static/media/ironfitness.974bc6fa.png": "/static/media/ironfitness.974bc6fa.png",
+    "static/media/kinesio.06b2d13f.jpg": "/static/media/kinesio.06b2d13f.jpg",
+    "static/media/top-image.3fcb1867.jpg": "/static/media/top-image.3fcb1867.jpg",
+    "static/media/yunmai.659154df.png": "/static/media/yunmai.659154df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7d01d2.js",
+    "static/js/2.0a80fdba.chunk.js",
+    "static/css/main.15dd7baa.chunk.css",
+    "static/js/main.c1400cb9.chunk.js"
+  ]
+}
