@@ -1,0 +1,13 @@
+.header__nav {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 165px auto 165px;
+  align-items: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .header__nav {
+    grid-template-columns: 45px auto 45px;
+  }
+}

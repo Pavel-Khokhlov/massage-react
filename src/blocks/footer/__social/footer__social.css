@@ -1,0 +1,8 @@
+.footer__social {
+  list-style: none;
+  width: 50%;
+  margin: 0 auto;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}

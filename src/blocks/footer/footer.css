@@ -1,0 +1,12 @@
+@import url(__name/footer__name.css);
+@import url(__social/footer__social.css);
+@import url(__list/footer__list.css);
+@import url(__link/footer__link.css);
+@import url(__icon/footer__icon.css);
+
+.footer {
+  width: min(1200px, 90vw);
+  margin: 0 auto;
+  padding: 20px 0 10px;
+  text-align: center;
+}

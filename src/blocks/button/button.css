@@ -1,0 +1,32 @@
+@import url(__icon/button__icon.css);
+@import url(__word/button__word.css);
+@import url(__uslugi/button__uslugi.css);
+@import url(__icon/_menu/button__icon_menu.css);
+@import url(__icon/_phone/button__icon_phone.css);
+@import url(__close/button__close.css);
+@import url(__close/_menu/button__close_menu.css);
+@import url(__close/_sale/button__close_sale.css);
+
+.button {
+  /* сброс стилей */
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  /* настройки кнопок */
+  opacity: 1;
+  transition: 0.6s;
+}
+
+.button:hover {
+  opacity: 0.6;
+}
+
+.button:active {
+  outline-style: none;
+}
+
+.button:focus {
+  outline-style: none;
+}

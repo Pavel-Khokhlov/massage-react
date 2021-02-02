@@ -1,0 +1,14 @@
+@import url(__nav/header__nav.css);
+@import url(__menu/header__menu.css);
+@import url(__phone/header__phone.css);
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+  background-color: white;
+  box-shadow: 3px 0 6px rgba(0, 0, 0, 0.6);
+  z-index: 100;
+}
