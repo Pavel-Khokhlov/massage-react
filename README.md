@@ -1,3 +1,28 @@
+# SITE of Professional masseur
+
+* [Link to the project](http://pavel-khokhlov.github.io/massage-react/)
+
+### Review
+CREATE REACT APPLICATOPN (CRA)
+Landing page of proffessional masseur.
+
+### Technologies Технологии
+Implemented HTML, CSS for creating adaptive layout.
+Created as a REACT aplication.
+Added feature to close popup forms by ESC
+
+Working on most of devices with diferent view windows 
+**Main point of design break**
+* 320px 
+* 1280px - max width of main page
+
+**Required to add some features**
+* Create slideshow of feedbacks
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
