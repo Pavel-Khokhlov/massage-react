@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div className="root">
       <a className="anchor" id="top" />
       {/* ЯКОРЬ */}
       <Header onMenuClick={handleMenuClick} />
