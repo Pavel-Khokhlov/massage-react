@@ -1,5 +1,7 @@
 import React from "react";
 
+import Phone from "../../images/phone.png";
+
 const Header = (props) => {
   const handleMenuBtnClick = () => {
     props.onMenuClick();
@@ -31,18 +33,18 @@ const Header = (props) => {
           </h2>
         </div>
         <div className="header__phone">
-          <button
+          <a
             className="button button__icon button__icon_phone animation__phone-icon"
-            aria-label="кнопка иконка телефон"
-            onСlick="document.location='tel:+79852515089'"
-          />
-          <button
+            href="tel:+79852515089"
+          >
+            <img className="footer__icon" src={Phone} alt="иконка телефон" />
+          </a>
+          <a
             className="button button__word button__word_phone animation__phone-link"
-            aria-label="кнопка номер телефона"
-            onСlick="document.location='tel:+79852515089'"
+            href="tel:+79852515089"
           >
             +7 (985) 251-50-89
-          </button>
+          </a>
         </div>
       </div>
     </header>

@@ -1,9 +1,11 @@
 .button__word {
   width: max-content;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 24px;
   display: block;
+  text-decoration: none;
+  color: black;
 }
 
 @media only screen and (max-width: 767px) {
